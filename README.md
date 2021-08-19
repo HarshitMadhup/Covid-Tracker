@@ -2,4 +2,4 @@
 
 Track cases of coronavirus throughout the globe.
 
-Built with flutter
+Built with flutter!
